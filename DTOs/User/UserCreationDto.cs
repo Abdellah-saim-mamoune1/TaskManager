@@ -1,8 +1,9 @@
-﻿namespace TaskManager.DTOs
+﻿namespace TaskManager.DTOs.User
 {
     public class UserCreationDto
     {
         public string Name { get; set; } = string.Empty;
         public string Account { get; set; } = string.Empty;
+        public string ImageUrl { get; set; }=string.Empty;
     }
 }

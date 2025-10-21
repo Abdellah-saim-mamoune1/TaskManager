@@ -17,6 +17,7 @@ namespace TaskManager.Entities
         public Role? Role { get; set; }
 
         public ICollection<Task> Tasks { get; set; } = [];
+        public ICollection<Comment> Comments { get; set; } = [];
 
     }
 }

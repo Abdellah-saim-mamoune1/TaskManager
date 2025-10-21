@@ -17,5 +17,7 @@ namespace TaskManager.Entities
         public bool Status { get; set; }
 
         public User? User { get; set; }
+
+        public ICollection<Comment> Comments { get; set; }=[];
     }
 }

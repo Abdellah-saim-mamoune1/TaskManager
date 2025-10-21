@@ -2,10 +2,10 @@
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 using TaskManager.Data;
-using TaskManager.DTOs;
-using TaskManager.Interfaces;
+using TaskManager.DTOs.User;
+using TaskManager.Interfaces.User;
 
-namespace TaskManager.Services
+namespace TaskManager.Services.User
 {
     public class UserManagementService(AppDbContext _Db) : IUserManagementService
     {

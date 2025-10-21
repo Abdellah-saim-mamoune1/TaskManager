@@ -1,19 +1,19 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TaskManager.Data;
-using TaskManager.DTOs;
-using TaskManager.Entities;
-using TaskManager.Interfaces;
+using TaskManager.DTOs.User;
+using TaskManager.Interfaces.User;
 
-namespace TaskManager.Services
+namespace TaskManager.Services.User
 {
     public class UserAdminService(AppDbContext _db):IUserAdminService
     {
-        public async System.Threading.Tasks.Task AddNewUserAsync(UserCreationDto form)
+        public async Task AddNewUserAsync(UserCreationDto form)
         {
-            var User = new User
+            var User = new Entities.User
             {
                 Account = form.Account,
                 Name = form.Name,
+                ImageUrl=form.ImageUrl,
                 RoleId = 2 // User Role Id in database
             };
 
@@ -22,7 +22,7 @@ namespace TaskManager.Services
         }
 
 
-        public async System.Threading.Tasks.Task UpdateUserRoleAsync(int UserId, int RoleId)
+        public async Task UpdateUserRoleAsync(int UserId, int RoleId)
         {
 
             var User = await _db.Users.FirstAsync(u => u.Id == UserId);

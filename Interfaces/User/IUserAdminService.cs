@@ -1,6 +1,6 @@
-﻿using TaskManager.DTOs;
+﻿using TaskManager.DTOs.User;
 
-namespace TaskManager.Interfaces
+namespace TaskManager.Interfaces.User
 {
     public interface IUserAdminService
     {

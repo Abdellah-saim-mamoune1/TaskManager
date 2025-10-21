@@ -11,7 +11,7 @@ namespace TaskManager.Services.Tasks.Admin
     {
         public async Task CreateAsync(TaskCreationDto form)
         {
-            var task = new TaskManager.Entities.Task
+            var task = new Entities.Task
             {
                 AssignedTo = form.AssignedTo,
                 Description = form.Description,

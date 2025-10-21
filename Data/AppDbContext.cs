@@ -1,7 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
-using System.Collections.Generic;
-using System.Reflection.Emit;
 using TaskManager.Entities;
 
 namespace TaskManager.Data
@@ -14,6 +11,7 @@ namespace TaskManager.Data
             public DbSet<User> Users { get; set; }
             public DbSet<Role> Roles { get; set; }
             public DbSet<Entities.Task> Tasks { get; set; }
+            public DbSet<Comment> Comments { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
@@ -28,7 +26,9 @@ namespace TaskManager.Data
                 .Property(l => l.CreatedAt)
                 .HasDefaultValueSql("GETDATE()");
 
-
+            modelBuilder.Entity<Comment>()
+             .Property(l => l.CreatedAt)
+             .HasDefaultValueSql("GETDATE()");
 
             base.OnModelCreating(modelBuilder);
 

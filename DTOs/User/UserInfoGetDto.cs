@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace TaskManager.DTOs
+namespace TaskManager.DTOs.User
 {
     public class UserInfoGetDto
     {

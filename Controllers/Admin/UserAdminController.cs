@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TaskManager.DTOs;
-using TaskManager.Interfaces;
+using TaskManager.DTOs.User;
+using TaskManager.Interfaces.User;
 
-namespace TaskManager.Controllers
+namespace TaskManager.Controllers.Admin
 {
     [Route("api/admin/user")]
     [ApiController]
