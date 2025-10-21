@@ -1,61 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Task\\",
+  "WorkspaceRootPath": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\controllers\\user1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:controllers\\user1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\services\\tasks\\admin\\taskadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:services\\tasks\\admin\\taskadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\interfaces\\tasks\\admin\\itaskadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:interfaces\\tasks\\admin\\itaskadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\services\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:services\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\services\\useradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:services\\useradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\controllers\\useradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:controllers\\useradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\interfaces\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:interfaces\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\interfaces\\iuseradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\interfaces\\iuseradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:interfaces\\iuseradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\dtos\\userinfogetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:dtos\\userinfogetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\dtos\\tasks\\admin\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:dtos\\tasks\\admin\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\dtos\\tasks\\admin\\taskcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:dtos\\tasks\\admin\\taskcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\controllers\\user1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:controllers\\user1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\services\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:services\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\services\\useradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:services\\useradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\controllers\\useradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:controllers\\useradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\interfaces\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:interfaces\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\dtos\\userinfogetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:dtos\\userinfogetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\x395\\documents\\projects\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +86,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
@@ -90,15 +106,67 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TaskAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Services\\Tasks\\Admin\\TaskAdminService.cs",
+              "RelativeDocumentMoniker": "Services\\Tasks\\Admin\\TaskAdminService.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Services\\Tasks\\Admin\\TaskAdminService.cs",
+              "RelativeToolTip": "Services\\Tasks\\Admin\\TaskAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:48:33.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\DTOs\\Tasks\\Admin\\TaskUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Tasks\\Admin\\TaskUpdateDto.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\DTOs\\Tasks\\Admin\\TaskUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\Tasks\\Admin\\TaskUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:43:03.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITaskAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Interfaces\\Tasks\\Admin\\ITaskAdmin.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Tasks\\Admin\\ITaskAdmin.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Interfaces\\Tasks\\Admin\\ITaskAdmin.cs",
+              "RelativeToolTip": "Interfaces\\Tasks\\Admin\\ITaskAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:34:21.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\DTOs\\Tasks\\Admin\\TaskCreationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Tasks\\Admin\\TaskCreationDto.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\DTOs\\Tasks\\Admin\\TaskCreationDto.cs",
+              "RelativeToolTip": "DTOs\\Tasks\\Admin\\TaskCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:32:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "User1Controller.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Controllers\\User1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Controllers\\User1Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\User1Controller.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Controllers\\User1Controller.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Controllers\\User1Controller.cs",
               "RelativeToolTip": "Controllers\\User1Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,86 +176,60 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Controllers\\UserAdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserAdminController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Controllers\\UserAdminController.cs",
-              "RelativeToolTip": "Controllers\\UserAdminController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:53:47.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserAdminService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Services\\UserAdminService.cs",
-              "RelativeDocumentMoniker": "Services\\UserAdminService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Services\\UserAdminService.cs",
-              "RelativeToolTip": "Services\\UserAdminService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:45:19.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "UserCreationDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\DTOs\\UserCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\DTOs\\UserCreationDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UserCreationDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\DTOs\\UserCreationDto.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\DTOs\\UserCreationDto.cs",
               "RelativeToolTip": "DTOs\\UserCreationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:43:49.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserAdminService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Interfaces\\IUserAdminService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUserAdminService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Interfaces\\IUserAdminService.cs",
-              "RelativeToolTip": "Interfaces\\IUserAdminService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:42:43.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:05:56.859Z",
+              "WhenOpened": "2025-10-20T10:43:49.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserManagementService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Services\\UserManagementService.cs",
-              "RelativeDocumentMoniker": "Services\\UserManagementService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Services\\UserManagementService.cs",
-              "RelativeToolTip": "Services\\UserManagementService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Title": "IUserAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Interfaces\\IUserAdminService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserAdminService.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Interfaces\\IUserAdminService.cs",
+              "RelativeToolTip": "Interfaces\\IUserAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:04:17.102Z",
+              "WhenOpened": "2025-10-20T10:42:43.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:05:56.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Services\\UserManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\UserManagementService.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Services\\UserManagementService.cs",
+              "RelativeToolTip": "Services\\UserManagementService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:04:17.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UserInfoGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\DTOs\\UserInfoGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\DTOs\\UserInfoGetDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UserInfoGetDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\DTOs\\UserInfoGetDto.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\DTOs\\UserInfoGetDto.cs",
               "RelativeToolTip": "DTOs\\UserInfoGetDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,24 +237,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserManagementService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Interfaces\\IUserManagementService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUserManagementService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Interfaces\\IUserManagementService.cs",
-              "RelativeToolTip": "Interfaces\\IUserManagementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "Entities\\Task.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Entities\\Task.cs",
+              "RelativeToolTip": "Entities\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T09:58:57.957Z",
+              "WhenOpened": "2025-10-10T18:56:58.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "UserAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Services\\UserAdminService.cs",
+              "RelativeDocumentMoniker": "Services\\UserAdminService.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Services\\UserAdminService.cs",
+              "RelativeToolTip": "Services\\UserAdminService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:45:19.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Controllers\\UserAdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAdminController.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Controllers\\UserAdminController.cs",
+              "RelativeToolTip": "Controllers\\UserAdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:53:47.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Interfaces\\IUserManagementService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserManagementService.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Interfaces\\IUserManagementService.cs",
+              "RelativeToolTip": "Interfaces\\IUserManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:58:57.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\appsettings.json",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -220,11 +298,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Program.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,41 +310,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Entities\\Task.cs",
-              "RelativeDocumentMoniker": "Entities\\Task.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Entities\\Task.cs",
-              "RelativeToolTip": "Entities\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:56:58.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Entities\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Entities\\Role.cs",
               "RelativeToolTip": "Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:55:20.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:55:20.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\x395\\Documents\\Projects\\TaskManager\\Entities\\User.cs",
               "RelativeToolTip": "Entities\\User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:49:20.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:49:20.629Z"
             }
           ]
         },
