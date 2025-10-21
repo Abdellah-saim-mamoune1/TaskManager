@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "TaskManager.Controllers.UserAdminController",
+    "Method": "AddNewUserAsync",
+    "RelativePath": "api/admin/user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "form",
+        "Type": "TaskManager.DTOs.UserCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.UserAdminController",
+    "Method": "UpdateUserRoleAsync",
+    "RelativePath": "api/admin/user/role/{UserId},{RoleId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "RoleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.User1Controller",
+    "Method": "GetInfoByIdAsync",
+    "RelativePath": "api/user/{UserId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.User1Controller",
+    "Method": "UpdateInfoAsync",
+    "RelativePath": "api/user/{UserId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "UserInfo",
+        "Type": "TaskManager.DTOs.UserInfoGetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
