@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\controllers\\tasks\\user\\taskusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:controllers\\tasks\\user\\taskusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\services\\tasks\\user\\usertaskmanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:services\\tasks\\user\\usertaskmanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\services\\tasks\\user\\taskcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:services\\tasks\\user\\taskcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\controllers\\tasks\\user\\taskusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|solutionrelative:controllers\\tasks\\user\\taskusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7107235-FC5A-4009-99AA-66B42ADCBEFB}|TaskManager.csproj|c:\\users\\hp\\desktop\\task\\interfaces\\tasks\\user\\iusertaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,8 +37,20 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskCommentService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Services\\Tasks\\User\\TaskCommentService.cs",
               "RelativeDocumentMoniker": "Services\\Tasks\\User\\TaskCommentService.cs",
@@ -46,18 +58,17 @@
               "RelativeToolTip": "Services\\Tasks\\User\\TaskCommentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T10:20:07.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T10:20:07.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TaskUserController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Controllers\\Tasks\\User\\TaskUserController.cs",
               "RelativeDocumentMoniker": "Controllers\\Tasks\\User\\TaskUserController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Controllers\\Tasks\\User\\TaskUserController.cs",
-              "RelativeToolTip": "Controllers\\Tasks\\User\\TaskUserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA9AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Controllers\\Tasks\\User\\TaskUserController.cs*",
+              "RelativeToolTip": "Controllers\\Tasks\\User\\TaskUserController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T10:10:22.859Z",
               "EditorCaption": ""
@@ -72,8 +83,7 @@
               "RelativeToolTip": "DTOs\\TaskStatutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T10:06:04.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T10:06:04.969Z"
             },
             {
               "$type": "Document",
@@ -85,18 +95,17 @@
               "RelativeToolTip": "Interfaces\\Tasks\\User\\IUserTaskService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T10:03:02.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T10:03:02.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserTaskManagmentService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Task\\Services\\Tasks\\User\\UserTaskManagmentService.cs",
               "RelativeDocumentMoniker": "Services\\Tasks\\User\\UserTaskManagmentService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Services\\Tasks\\User\\UserTaskManagmentService.cs*",
-              "RelativeToolTip": "Services\\Tasks\\User\\UserTaskManagmentService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Task\\Services\\Tasks\\User\\UserTaskManagmentService.cs",
+              "RelativeToolTip": "Services\\Tasks\\User\\UserTaskManagmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T10:02:00.822Z",
               "EditorCaption": ""
@@ -111,28 +120,15 @@
               "RelativeToolTip": "DTOs\\TaskGetDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T10:00:48.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2025-10-23T10:00:48.368Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",

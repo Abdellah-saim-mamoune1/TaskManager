@@ -16,9 +16,10 @@ namespace TaskManager.Controllers.Tasks.User
             var data = await _userTaskService.GetTaskByIdAsync(Id);
             return Ok(data);
         }
-        public async Task<IActionResult> UpdateTaskStatusAsync(int Id, TaskStatutDTO Task)
+        [HttpPut("{Id}/{TaskStatus}")]
+        public async Task<IActionResult> UpdateTaskStatusAsync(int Id, TaskStatutDTO TaskStatus)
         {
-            await _userTaskService.UpdateTaskStatusAsync(Id, Task);
+            await _userTaskService.UpdateTaskStatusAsync(Id, TaskStatus);
             return Ok("Task updated successfully");
         }
     }
