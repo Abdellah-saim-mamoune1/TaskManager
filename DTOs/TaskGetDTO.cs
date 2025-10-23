@@ -1,4 +1,6 @@
-﻿namespace TaskManager.DTOs
+﻿using TaskManager.DTOs.User;
+
+namespace TaskManager.DTOs
 {
     public class taskGetDTO
     {

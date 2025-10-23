@@ -1,13 +1,14 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TaskManager.Data;
 using TaskManager.DTOs;
-using TaskManager.Interfaces;
+using TaskManager.DTOs.User;
+using TaskManager.Interfaces.Tasks.User;
 
-namespace TaskManager.Services
+namespace TaskManager.Services.Tasks.User
 {
     public class UserTaskManagmentService(AppDbContext _Db) : IUserTaskService
     {
-        public async Task<List<taskGetDTO>?> GetTaskById(int Id)
+        public async Task<List<taskGetDTO>?> GetTaskByIdAsync(int Id)
         {
             var data = await _Db.Tasks.Include(u => u.User).ThenInclude(X => X!.Role).Select(s => new taskGetDTO
             {
@@ -31,15 +32,12 @@ namespace TaskManager.Services
             }
             return data;
         }
-        public async Task UpdateTaskStatus(int Id, TaskStatutDTO Task)
+        public async Task UpdateTaskStatusAsync(int Id, TaskStatutDTO Task)
         {
             var data = await _Db.Tasks.FirstOrDefaultAsync(x => x.Id == Id);
             data!.Status = Task.Status;
             await _Db.SaveChangesAsync();
         }
-        public Task<taskGetDTO?> SearchOnTask(int Id)
-        {
-
-        }
+      
     }
 }

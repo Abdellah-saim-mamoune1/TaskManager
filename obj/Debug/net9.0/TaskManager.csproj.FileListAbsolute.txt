@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\TaskManager.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\TaskManager.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\TaskManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Task\obj\Debug\net9.0\TaskManager.sourcelink.json
